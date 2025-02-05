@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2R5OGYyN3VvMzFqeXpkbmlpcnZmNTdkNnVwemVpd3pocGRnYTV5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cmUqqesf6KOkSkk13M/giphy.gif)" width="100"/>
+</div>
+
 <!--
 **NikitaUsin/NikitaUsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
